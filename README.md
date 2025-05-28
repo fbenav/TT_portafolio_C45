@@ -9,7 +9,7 @@ Aprendimos los fundamentos de python tales como:
 - Listas anidadas
 
 ## Sprint 2: Python Basico II
-
+Aprendimos sobre blucles, condicionales y otros manejos advansados como:
 
 ## Sprint 3: Data Wrangling I
 
